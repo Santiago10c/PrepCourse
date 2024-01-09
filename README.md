@@ -1,2 +1,2 @@
 # PrepCourse
-Repositorio de pruebas
+Este proyecto es de pruebas
